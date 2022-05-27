@@ -1,1 +1,2 @@
 # typeof.dev
+A website
