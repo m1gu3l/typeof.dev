@@ -1,0 +1,17 @@
+*
+!/components
+!/components/**/*
+!/pages
+!/pages/**/*
+!/public
+!/public/**/*
+!/styles
+!/styles/**/*
+!.eslintrc.json
+!.gitignore
+!CNAME
+!next.config.js
+!next-env.d.ts
+!package.json
+!README.md
+!tsconfig.json
