@@ -1,4 +1,6 @@
 *
+!.github
+!.github/**/*
 !/components
 !/components/**/*
 !/pages
