@@ -1,2 +1,1 @@
-# typeof.dev
-A website
+![typeof.dev](https://typeof.dev/logo.svg)
