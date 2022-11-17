@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 128 128">
   <title>typeof.dev</title>
   <rect id="background" width="100%" rx="2" ry="2" height="100%" fill="#f7df1e"/>
   <path id="tau" d="m 91.359963,112 q -6.816,0 -10.656,-3.648 -3.744,-3.648 -3.744,-10.272 V 67.072 h -16.8 V 59.2 h 44.639997 v 7.872 H 85.599963 V 98.08 q 0,6.048 5.76,6.048 H 103.35996 V 112 Z"/>
